@@ -13,7 +13,9 @@ a { color: #CC3300; }
 #primero em { background: #FFFFCC; padding: .1em; }
  
 /* Todos los elementos em de tipo especial en toda la pagina */
-em { background: #FFCC99; border: 1px solid #FF9900; padding: .1em; }
+em { background: #FFCC99;
+     border: 1px solid #FF9900;
+     padding: .1em; }
 
  
 /* Elementos span contenidos en .normal */
